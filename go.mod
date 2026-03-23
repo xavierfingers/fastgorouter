@@ -1,4 +1,4 @@
-module github.com/xavierfingers/fastgoserver
+module github.com/xavierfingers/fastgorouter
 
 go 1.25.1
 
