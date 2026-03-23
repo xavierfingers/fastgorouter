@@ -1,4 +1,4 @@
-package fastgoserver
+package fastgorouter
 
 import (
 		"github.com/valyala/fasthttp"
